@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Luis Lima!
 
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🌱 Estudando HTML, CSS, JavaScript e React.
 - 🤔 Procuro ajuda com Front-end
-- 📫 Contate-me no E-mail: luisfelipediaslima@hotmail.com
+- 📫 Contate-me no E-mail: kimera2701@gmail.com
 - 😄 Pronouns: Ele/Dele
 
 <div>
@@ -17,7 +17,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
     
-
+    ##Social##
+    
+<div>
   <a href="https://www.youtube.com/channel/UC1OE7W3nzGarn35WHkg0JpA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/luislima.jpg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/luipers" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
